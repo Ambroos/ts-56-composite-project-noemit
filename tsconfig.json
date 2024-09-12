@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "composite": true,
+        "noEmit": true,
+        "strict": true,
+    },
+    "include": [
+        "*.ts"
+    ]
+}
